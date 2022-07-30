@@ -1,4 +1,3 @@
-# Martin Rajnoha
 ## Education
 * 2016 - 2020 **Ph.D.** at Brno University of Technology, Dept. of Telecommunication
   * Thesis: Determination of objects similarity based on image information
@@ -45,6 +44,7 @@
 * <b>Rajnoha, M.</b>, Mezina, A., & Burget, R. (2020). Multi-Frame Labeled Faces Database: Towards Face Super-Resolution from Realistic Video Sequences. Applied Sciences, 10(20), 7213.
 * Pořízka, P., Klus, J., Mašek, J., <b>Rajnoha, M.</b>, Prochazka, D., Modlitbová, P., ... & Kaiser, J. (2017). Multivariate classification of echellograms: a new perspective in Laser-Induced Breakdown Spectroscopy analysis. Scientific Reports, 7(1), 1-12.
 * Povoda, L., Burget, R., <b>Rajnoha, M.</b>, Brezany, P. (2022). Novel Big Data Approach for Text Supported Service Operations Management. In Big Data and Blockchain for Service Operations Management (pp. 163-189). Springer, Cham.
+
 <details>
   <summary>more...</summary>
 
@@ -62,4 +62,5 @@
 * <b>Rajnoha, M.</b> (2018) .Realtime Pedestrian Recognition Using Siamese Network. In Proceedings of the 24rd Conference STUDENT EEICT 2018. Brno University of Technology, Faculty of electrical engineering and communication (pp. 441–445). ISBN: 978-80-214-5614-3.
 * <b>Rajnoha, M.</b> (2016). Modelovanie skladu pomocou grafického rozhrania. In Proceedings of the 22nd Conference STUDENT EEICT 2016. Brno University of Technology, Faculty of electrical engineering and communication (pp. 273–275). ISBN: 978-80-214-5350-0.
 * Balej, J., Komínek, O., <b>Rajnoha, M.</b> (2013). Geographic distance estimation for IP geolocation. In Proceedings in EIIC-The 2nd Electronic International Interdisciplinary Conference (No. 1).
+
 </details>
