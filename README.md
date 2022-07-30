@@ -1,3 +1,4 @@
+# Martin Rajnoha
 ## Education
 * 2016 - 2020 **Ph.D.** at Brno University of Technology, Dept. of Telecommunication
   * Thesis: Determination of objects similarity based on image information
@@ -48,19 +49,33 @@
 <details>
   <summary>more...</summary>
 
-* <b>Rajnoha, M.</b>, Burget, R., & Dutta, M. K. (2017). Offline handwritten text recognition using support vector machines. In 2017 4th International Conference on Signal Processing and Integrated Networks (SPIN) (pp. 132-136). IEEE.
-* <b>Rajnoha, M.</b>, Burget, R., & Dutta, M. K. (2017). Handwriting comenia script recognition with convolutional neural network. In 2017 40th International Conference on Telecommunications and Signal Processing (TSP) (pp.775-779). IEEE.
-* <b>Rajnoha, M.</b>, Burget, R., & Povoda, L. (2018). Image background noise impact on convolutional neural network training. In 2018 10th International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT) (pp. 1-4). IEEE.
-* <b>Rajnoha, M.</b>, Povoda, L., Masek, J., Burget, R., & Dutta, M. K. (2018). Pedestrian detection from low resolution public cameras in the wild. In 2018 5th International Conference on Signal Processing and Integrated Networks (SPIN) (pp. 291-295). IEEE.
-* <b>Rajnoha, M.</b>, Mekyska, J., Burget, R., Eliasova, I., Kostalova, M., & Rektorova, I. (2018). Towards Identification of Hypomimia in Parkinson's Disease Based on Face Recognition Methods. In 2018 10th International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT) (pp. 1-4). IEEE.
-* <b>Rajnoha, M.</b>, Mikulec, V., Burget, R., & Drazil, J. (2019). A Perspective of the Noise Removal for Faster Neural Network Training. In 2019 11th International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT) (pp. 1-4). IEEE.
-* Kuchar, K., Holasova, E., Hrboticky, L., <b>Rajnoha, M.</b>, & Burget, R. (2019). Supervised Learning in Multi-Agent Environments Using Inverse Point of View. In 2019 42nd International Conference on Telecommunications and Signal Processing (TSP) (pp. 625-628). IEEE.
-* Masek, J., <b>Rajnoha, M.</b>, Burget, R., & Dutta, M. K. (2018). Automatic System for Diseased Artery Transverse Section Detection. In 2018 5th International Conference on Signal Processing and Integrated Networks (SPIN) (pp. 322-326). IEEE.
-* Safonov, Y., <b>Rajnoha, M.</b> (2019). Genetic Programming for Source Code Generation to Solve NP-hard Problems. Elektrorevue (http://www.elektrorevue.cz), Vol. 21, No. 1, (pp. 21–27). ISSN: 1213-1539.
-* <b>Rajnoha, M.</b> (2019). Scalable Person Identification System for Real-time Applications. In Proceedings of the 25th Conference STUDENT EEICT 2019. Brno University of Technology, Faculty of electrical engineering and communication (pp. 500–504). ISBN: 978-80-214-5735-5.
-* Lieskovský, P., <b>Rajnoha, M.</b> (2019). Parametrizácia tváre z videa pomocou metód pre rozpoznávanie tváre. In Proceedings of the 25th Conference STUDENT EEICT 2019. Brno University of Technology, Faculty of electrical engineering and communication, (pp. 249–253). ISBN: 978-80-214-5735-5.
-* <b>Rajnoha, M.</b> (2018) .Realtime Pedestrian Recognition Using Siamese Network. In Proceedings of the 24rd Conference STUDENT EEICT 2018. Brno University of Technology, Faculty of electrical engineering and communication (pp. 441–445). ISBN: 978-80-214-5614-3.
-* <b>Rajnoha, M.</b> (2016). Modelovanie skladu pomocou grafického rozhrania. In Proceedings of the 22nd Conference STUDENT EEICT 2016. Brno University of Technology, Faculty of electrical engineering and communication (pp. 273–275). ISBN: 978-80-214-5350-0.
-* Balej, J., Komínek, O., <b>Rajnoha, M.</b> (2013). Geographic distance estimation for IP geolocation. In Proceedings in EIIC-The 2nd Electronic International Interdisciplinary Conference (No. 1).
+<li><b>Rajnoha, M.</b>, Burget, R., & Dutta, M. K. (2017). Offline handwritten text recognition using support vector machines. In 2017 4th International Conference on Signal Processing and Integrated Networks (SPIN) (pp. 132-136). IEEE.
+</li>
+<li><b>Rajnoha, M.</b>, Burget, R., & Dutta, M. K. (2017). Handwriting comenia script recognition with convolutional neural network. In 2017 40th International Conference on Telecommunications and Signal Processing (TSP) (pp.775-779). IEEE.
+</li>
+<li><b>Rajnoha, M.</b>, Burget, R., & Povoda, L. (2018). Image background noise impact on convolutional neural network training. In 2018 10th International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT) (pp. 1-4). IEEE.
+</li>
+<li><b>Rajnoha, M.</b>, Povoda, L., Masek, J., Burget, R., & Dutta, M. K. (2018). Pedestrian detection from low resolution public cameras in the wild. In 2018 5th International Conference on Signal Processing and Integrated Networks (SPIN) (pp. 291-295). IEEE.
+</li>
+<li><b>Rajnoha, M.</b>, Mekyska, J., Burget, R., Eliasova, I., Kostalova, M., & Rektorova, I. (2018). Towards Identification of Hypomimia in Parkinson's Disease Based on Face Recognition Methods. In 2018 10th International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT) (pp. 1-4). IEEE.
+</li>
+<li><b>Rajnoha, M.</b>, Mikulec, V., Burget, R., & Drazil, J. (2019). A Perspective of the Noise Removal for Faster Neural Network Training. In 2019 11th International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT) (pp. 1-4). IEEE.
+</li>
+<li> Kuchar, K., Holasova, E., Hrboticky, L., <b>Rajnoha, M.</b>, & Burget, R. (2019). Supervised Learning in Multi-Agent Environments Using Inverse Point of View. In 2019 42nd International Conference on Telecommunications and Signal Processing (TSP) (pp. 625-628). IEEE.
+</li>
+<li> Masek, J., <b>Rajnoha, M.</b>, Burget, R., & Dutta, M. K. (2018). Automatic System for Diseased Artery Transverse Section Detection. In 2018 5th International Conference on Signal Processing and Integrated Networks (SPIN) (pp. 322-326). IEEE.
+</li>
+<li> Safonov, Y., <b>Rajnoha, M.</b> (2019). Genetic Programming for Source Code Generation to Solve NP-hard Problems. Elektrorevue (http://www.elektrorevue.cz), Vol. 21, No. 1, (pp. 21–27). ISSN: 1213-1539.
+</li>
+<li> <b>Rajnoha, M.</b> (2019). Scalable Person Identification System for Real-time Applications. In Proceedings of the 25th Conference STUDENT EEICT 2019. Brno University of Technology, Faculty of electrical engineering and communication (pp. 500–504). ISBN: 978-80-214-5735-5.
+</li>
+<li> Lieskovský, P., <b>Rajnoha, M.</b> (2019). Parametrizácia tváre z videa pomocou metód pre rozpoznávanie tváre. In Proceedings of the 25th Conference STUDENT EEICT 2019. Brno University of Technology, Faculty of electrical engineering and communication, (pp. 249–253). ISBN: 978-80-214-5735-5.
+</li>
+<li> <b>Rajnoha, M.</b> (2018) .Realtime Pedestrian Recognition Using Siamese Network. In Proceedings of the 24rd Conference STUDENT EEICT 2018. Brno University of Technology, Faculty of electrical engineering and communication (pp. 441–445). ISBN: 978-80-214-5614-3.
+</li>
+<li> <b>Rajnoha, M.</b> (2016). Modelovanie skladu pomocou grafického rozhrania. In Proceedings of the 22nd Conference STUDENT EEICT 2016. Brno University of Technology, Faculty of electrical engineering and communication (pp. 273–275). ISBN: 978-80-214-5350-0.
+</li>
+<li> Balej, J., Komínek, O., <b>Rajnoha, M.</b> (2013). Geographic distance estimation for IP geolocation. In Proceedings in EIIC-The 2nd Electronic International Interdisciplinary Conference (No. 1).
+</li>
 
 </details>
