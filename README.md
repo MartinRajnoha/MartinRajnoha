@@ -1,8 +1,6 @@
 # Martin Rajnoha
 
-My area is AI/ML in general, but primary expertise is image processing. Currently, I am working as a scientific developer dealing with creation and integration scientific methods into production.
-
-I was working on plenty of small projects or playground ideas because of I like challenges and algorithmization. These small projects were basically developed using web technologies such as HTML5, JavaScript, JQuery, Ajax, PHP, MySQL, RestAPI... Nowadays I prefer using Python because of its worldwide utilization in AI / ML areas that is my primary interest. But I also worked with VBA (MS Excel), Java (Hibernate, Spring boot), C#, etc.
+My area is AI/ML in general, but primary expertise is image processing. Currently, I am working as a scientific developer dealing with creation and integration scientific methods into production. Because I like challenges and algorithmization I was working on plenty of small projects using different technologies (C#, Java, MySQL, PHP, JavaScript...).
 
 ## Education
 * 2016 - 2020 **Ph.D.** at Brno University of Technology, Dept. of Telecommunication
@@ -15,14 +13,14 @@ I was working on plenty of small projects or playground ideas because of I like 
   * Thesis: Analysis of the communication path attributes for IP geolocation
                 
 ## Work experience
-* 2018 - present **Profitak group s.r.o.** Scientist/developer
+* 2018 - present **Profitak group s.r.o.** Scientist/Developer
   * Automatization, new product features, NLP, Image processing, time series...
-  * RabbitMQ, Docker, Redis, Tensorflow, Keras, ElasticSearch, Kibana, GPU acc.
-* 2016 - 2019 **Brno University of Technology** - Junior research scientist
-  * Scientific and publication work, student supervising, teaching
-  * Research focused on Image processing, CV, Deep learning, Big data, AI / ML</li>
+  * RabbitMQ, Redis, Docker, gitlab-ci, Python, Tensorflow, Keras, ElasticSearch, MinIO...
+* 2016 - 2019 **Brno University of Technology** - Junior Research Scientist
+  * Scientific and publication work, student supervising, teaching, [research projects](#research-projects)
+  * Research focused on Image processing, CV, Deep learning, Big data, AI / ML
 * 2015 - 2016 **EmbedIT** - Software tester
-  * Tests of web apps; XML, SOAP, MySQL, JIRA, Enterprise Architecture (UML)</li>
+  * Tests of web apps; XML, SOAP, MySQL, JIRA, Enterprise Architecture (UML)
   
 ## Research Projects
 * 2017 - 2020 *Expert system for automatic analysis and management of large data repositories of manufacturing companies* 
@@ -31,8 +29,8 @@ I was working on plenty of small projects or playground ideas because of I like 
   * <b>Gity, a.s. - MVČR</b> ID: VI2VS/554; Face recognition, Object detection, Deep learning, Image2Image translations,
                         Tensorflow, Keras, OpenCV, GPU acc., Docker, Rest API, RabbitMQ                        
 * 2016 - 2016 *Connected homes - thermostat datamining (economic treaty)*
-  * <b>Honeywell, Inc.</b> reference person Ondřej Lipták; Time series, Big data, AI / ML, DWH, Apache Spark, Cassandra, Java Undertow
-* 2016 - 2020 Cooperation on research with Honeywell, Police of CR, JIMI CZ a.s.
+  * <b>Honeywell, Inc.</b> reference person Ondřej Lipták; Time series, Big data, AI / ML, Apache Spark, Cassandra, Java Undertow
+* 2016 - 2020 Cooperation on research with Honeywell, Police of CR, JIMI CZ a.s. on varios private projects.
 
 ## Talks and Awards
 * 2019, sep.  <b>Invited talk</b> USTB, Beijing, China
