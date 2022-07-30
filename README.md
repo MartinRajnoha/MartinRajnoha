@@ -45,7 +45,7 @@
 * <b>Rajnoha, M.</b>, Mezina, A., & Burget, R. (2020). Multi-Frame Labeled Faces Database: Towards Face Super-Resolution from Realistic Video Sequences. Applied Sciences, 10(20), 7213.
 * Pořízka, P., Klus, J., Mašek, J., <b>Rajnoha, M.</b>, Prochazka, D., Modlitbová, P., ... & Kaiser, J. (2017). Multivariate classification of echellograms: a new perspective in Laser-Induced Breakdown Spectroscopy analysis. Scientific Reports, 7(1), 1-12.
 * Povoda, L., Burget, R., <b>Rajnoha, M.</b>, Brezany, P. (2022). Novel Big Data Approach for Text Supported Service Operations Management. In Big Data and Blockchain for Service Operations Management (pp. 163-189). Springer, Cham.
-  <details>
+<details>
   <summary>more...</summary>
 
 * <b>Rajnoha, M.</b>, Burget, R., & Dutta, M. K. (2017). Offline handwritten text recognition using support vector machines. In 2017 4th International Conference on Signal Processing and Integrated Networks (SPIN) (pp. 132-136). IEEE.
