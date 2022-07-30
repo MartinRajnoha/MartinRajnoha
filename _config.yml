@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Curriculum vitae
-description: Science | Research | Development
+# description: Science | Research | Development
+favicon: true
