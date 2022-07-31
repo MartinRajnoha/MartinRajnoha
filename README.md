@@ -1,7 +1,3 @@
-<head>
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-</head>
-
 # Martin Rajnoha
 
 My area is AI/ML in general, but primary expertise is image processing. Currently, I am working as a scientific developer dealing with creation and integration scientific methods into production. Because I like challenges and algorithmization I was working on plenty of small projects using different technologies (C#, Java, MySQL, PHP, JavaScript...).
